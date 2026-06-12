@@ -1,0 +1,2 @@
+image: raptorrico/vat:<+pipeline.sequenceId>
+replicas: 1
